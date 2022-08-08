@@ -30,6 +30,10 @@
     align-items: center;
 }
 
+.rodapePrincipal-contatoForm-fieldset button {
+    height: 40px;
+}
+
 .rodapePrincipal-navMap-list {
     display: flex;
     flex-direction: column;
